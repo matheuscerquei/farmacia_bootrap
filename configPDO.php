@@ -1,4 +1,4 @@
 <?php
 //criando conexão
-$pdo = new PDO("mysql:dbname=mercado;host=localhost:3306", "root","cimatec"); 
+$pdo = new PDO("mysql:dbname=farmacia;host=localhost:3306", "root","cimatec"); 
 ?>
